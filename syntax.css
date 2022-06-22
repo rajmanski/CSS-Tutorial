@@ -40,3 +40,19 @@ span {
 .deck {
     color: red;
 }
+
+body {
+    color: red;
+}
+
+div {
+    color: blue;
+}
+
+p {
+    color: green;
+}
+
+a {
+    color: yellow;
+}
