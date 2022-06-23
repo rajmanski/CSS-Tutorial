@@ -1,3 +1,9 @@
-#all-articles h2 + p {
-    color: green;
+span[id~="deck"] {
+    color: violet;
+}
+div[id] {
+    background-color: grey;
+}
+a[title] {
+    color: red;
 }
