@@ -1,65 +1,7 @@
 p {
-    font-size: 12px;
-    color: red;
+    color: red !important;
 }
 
-#header p {
-    font-size: 24px;
-}
-
-h1 {
-    font-size: 32px;
-}
-a {
-    text-decoration: underline;
-    color: blue;
-}
-
-span {
-    text-transform: uppercase;
-}
-
-div {
-    width: 100%;
-    background-color: grey;
-}
-
-h2 {
-    font-size: 24px;
-}
-#content-header {
-    font-size: 18px;
-    color: red;
-}
-
-span {
-    display: block;
-    color: blue;
-}
-
-.deck {
-    color: red;
-}
-
-body {
-    color: red;
-}
-
-div {
-    color: blue;
-}
-
-p {
-    color: green;
-}
-
-a {
-    color: yellow;
-}
 #main-content p {
-    color: red;
-}
-
-p {
-    color: black;
+    color: green;
 }
