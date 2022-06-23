@@ -1,6 +1,7 @@
-p, span, a, li {
+#main-content p {
     color: red;
-    font-size: 14px;
-    font-weight: bold;
-    font-family: Arial;
+}
+
+#main-content #sub-content p {
+    color: green;
 }
