@@ -56,3 +56,10 @@ p {
 a {
     color: yellow;
 }
+#main-content p {
+    color: red;
+}
+
+p {
+    color: black;
+}
