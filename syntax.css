@@ -1,9 +1,11 @@
-span[id~="deck"] {
-    color: violet;
-}
-div[id] {
-    background-color: grey;
-}
-a[title] {
+a:hover {
     color: red;
+}
+
+a:active {
+    color: orange;
+}
+
+a:visited {
+    color: purple;
 }
