@@ -1,7 +1,6 @@
-article.featured-content {
-background: red;
+*{
+    font-weight: bold;
+    font-style: italic;
+    color: red;
 }
 
-div.featured-content {
-    background: blue;
-}
