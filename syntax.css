@@ -1,6 +1,11 @@
-#header p {
-    text-transform: uppercase;
+#header h1 {
+    color: darkorange;
 }
-body > p {
-    text-transform: uppercase;
+
+#header h2 {
+    color: #567344;
+}
+
+#header {
+    background-color: rgb(215, 250, 242);
 }
