@@ -1,4 +1,8 @@
+h1 {
+    font-weight: normal;
+}
 
-a {
-    text-decoration: line-through;
+p {
+    font-weight: 100;
+    font-family: "Yu Gothic";
 }
