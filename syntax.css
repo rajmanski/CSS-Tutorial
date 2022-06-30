@@ -1,6 +1,11 @@
-.box {
-    margin: 30px auto;
-    padding: 30px;
+.block {
+    padding: 10px;
+    margin: 10px;
     border: 1px solid #000;
-    width: 300px;
+}
+.inline {
+    padding: 10px;
+    margin: 10px;
+    border: 1px solid #000;
+    display: inline-block;
 }
